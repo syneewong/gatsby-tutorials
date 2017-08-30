@@ -7,5 +7,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-glamor`,
+    `gatsby-plugin-styled-components`,
   ],
 }
