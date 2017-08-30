@@ -1,11 +1,11 @@
 .user {
   display: flex;
   align-items: center;
-  margin: 0 auto 12px auto;
-}
-
-.user:last-child {
-  margin-bottom: 100px;
+  margin: 100px auto 12px auto;
+  &:last-child {
+    margin-bottom: 100px;
+    background: #ff0;
+  }
 }
 
 .avatar {
