@@ -1,4 +1,7 @@
 module.exports = {
+  siteMetadata: {
+    description: `Hey hey Syn-Ee`,
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
