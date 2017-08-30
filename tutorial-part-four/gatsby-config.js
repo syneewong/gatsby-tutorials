@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Pandas Eating Lots`,
+    description: `Hey hey Syn-Ee`,
   },
   plugins: [
     `gatsby-plugin-glamor`,
